@@ -1,9 +1,3 @@
-═══════════════════════════════════════════════════════════════ 
-                 LENI MENAGE — GitHub Profile README            
-═══════════════════════════════════════════════════════════════ 
- 
-
- 
 # Hey, I'm Léni Menage 👋
  
 > Je construis des systèmes qui tournent vite, pensent fort et tombent rarement.
