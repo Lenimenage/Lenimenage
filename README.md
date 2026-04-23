@@ -1,14 +1,8 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 LENI MENAGE — GitHub Profile README             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+═══════════════════════════════════════════════════════════════ 
+                 LENI MENAGE — GitHub Profile README            
+═══════════════════════════════════════════════════════════════ 
  
-<div align="center">
- 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&pause=1200&color=7F77DD¢er=true&v…
- 
-</div>
- 
----
+
  
 # Hey, I'm Léni Menage 👋
  
