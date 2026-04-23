@@ -33,87 +33,11 @@
 <td align="center" width="100"><b>🌐 TypeScript</b><br/><sub>Frontend / API</sub></td>
 <td align="center" width="100"><b>⚛️ React</b><br/><sub>UI / DX</sub></td>
 <td align="center" width="100"><b>🐳 Docker</b><br/><sub>Containers</sub></td>
-<td align="center" width="100"><b>☸️ Kubernetes</b><br/><sub>Orchestration</sub></td>
-</tr>
-<tr>
-<td align="center" width="100"><b>🤖 PyTorch</b><br/><sub>Deep Learning</sub></td>
-<td align="center" width="100"><b>📦 PostgreSQL</b><br/><sub>Data Store</sub></td>
-<td align="center" width="100"><b>🔁 CI/CD</b><br/><sub>GH Actions</sub></td>
-<td align="center" width="100"><b>☁️ Terraform</b><br/><sub>IaC</sub></td>
-<td align="center" width="100"><b>🦜 LangChain</b><br/><sub>LLM Pipelines</sub></td>
+
 </tr>
 </table>
  
----
- 
-## `// github stats`
- 
-<div align="center">
- 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=maellecomte&show_icons=true&theme=transparent&hide_border=true&title_color=7F77DD&icon_color=1D9E75&text_color=888780&bg_color=00000000&rank_icon=github&include_all_commits=true&count_private=true%22 />
- 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maellecomte&layout=compact&theme=transparent&hide_border=true&title_color=7F77DD&text_color=888780&bg_color=00000000&langs_count=6%22 />
- 
-</div>
- 
-<div align="center">
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=maellecomte&theme=transparent&hide_border=true&ring=7F77DD&fire=D85A30&currStreakLabel=1D9E75&sideLabels=888780&dates=B4B2A9&stroke=D3D1C7)
- 
-</div>
- 
-<div align="center">
- 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maellecomte&bg_color=transparent&color=888780&line=7F77DD&point=1D9E75&area=true&area_color=7F77DD&hide_border=true)
- 
-</div>
- 
----
- 
-## `// en ce moment`
- 
-```python
-class MaelLecomte:
-    def __init__(self):
-        self.role        = "Full-Stack · Data / AI · DevOps"
-        self.location    = "Paris, France 🗼"
-        self.stack       = ["Python", "TypeScript", "React", "Docker", "K8s", "PyTorch"]
-        self.interests   = ["LLMs in production", "MLOps", "distributed systems", "clean APIs"]
-        self.currently   = "Building things that scale 🚀"
-        self.open_to     = ["freelance", "missions", "collabs open-source"]
- 
-    def contact(self):
-        return "mail@maellecomte.dev"
-```
- 
----
- 
-## `// projets`
- 
-> 🔧 *Section à remplir — remplace ces blocs par tes vrais repos !*
- 
-<table>
-<tr>
-<td width="50%">
-<h3>📦 project-one</h3>
-<p>Description courte du projet. Ce qu'il fait, pourquoi c'est cool.</p>
-<img src="https://img.shields.io/badge/Python-EAF3DE?style=flat-square&color=639922" />
-<img src="https://img.shields.io/badge/FastAPI-E1F5EE?style=flat-square&color=1D9E75" />
-</td>
-<td width="50%">
-<h3>🤖 project-two</h3>
-<p>Description courte du projet. Ce qu'il fait, pourquoi c'est cool.</p>
-<img src="https://img.shields.io/badge/TypeScript-EEEDFE?style=flat-square&color=7F77DD" />
-<img src="https://img.shields.io/badge/React-E6F1FB?style=flat-square&color=378ADD" />
-</td>
-</tr>
-</table>
- 
----
- 
-## `// contact`
- 
-<div align="left">
+
  
 [![Email](https://img.shields.io/badge/mail%40maellecomte.dev-FAECE7?style=for-the-badge&labelColor=FAECE7&color=D85A30&logo=gmail&logoColor=993C1D)](mailto:mail@maellecomte.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E6F1FB?style=for-the-badge&labelColor=E6F1FB&color=378ADD&logo=linkedin&logoColor=185FA5)](https://linkedin.com/in/maellecomte)
